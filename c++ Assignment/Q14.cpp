@@ -1,4 +1,4 @@
-//Develop a program that checks if a triangle is valid based on the lengths of its side and determines its type (equilateral , isosceles , or scalene) using nested if-else statements.
+//Create a program to simulate at ATM machine using a switch statement. Include options for withdrawl , deposit , balance inquiry , and exit , with error handling for incalid input and insufficient balance .
 #include <iostream>
 using namespace std;
 
